@@ -105,10 +105,14 @@
 </p>
 
 <br />
-<h3 align="left">Github Stats:</h3>
-<div width="100%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hpandelo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="hpandelo" style="height: 180px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=hpandelo&show_icons=true&locale=en&theme=dracula" alt="hpandelo" style="height: 180px" />
+<div>
+  <h3 align="left">Github Stats:</h3>
+  <div style="height: 190px; width: 48%; float: left; margin: 2px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hpandelo&show_icons=true&locale=en&layout=compact&theme=dracula" alt="hpandelo" style="height: 190px;" />
+  </div>
+  <div style="height: 190px; width: 48%; float: right; margin: 2px;">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=hpandelo&show_icons=true&locale=en&theme=dracula" alt="hpandelo" style="height: 190px;" />
+  </div>
 </div>
 
 <!-- <br />
