@@ -7,7 +7,7 @@
   </a>
 </p> -->
 
-- 🏢 I’m currently working at [Daitan Labs S/A as Outsourcing for SS8 Networks Inc](https://daitan.com/)
+- 🏢 I’m currently working in a contract with [NTTData as Outsourcing to ABI (AB-Inbev)](https://nttdata.com/)
 - 🌱 I’m currently learning **NextJS and Best Practices of Clean Architecture and DDD**
 - 🌐 My personal Website [Ideen.com.br (I'll change it soon to a good portifolio)](https://ideen.com.br/)
 - 🔭 I'm looking for **get Specialized in JAVASCRIPT stack with NODEJS in Backend and REACTJS (or NextJS) in Frontend**
@@ -103,7 +103,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
 </p>
-
+<!-- 
 <br />
 <div>
   <h3 align="left">Github Stats:</h3>
@@ -115,7 +115,7 @@
   </div>
 </div>
 
-<!-- <br />
+<br />
 <h3 align="left">Support:</h3>
 <p>
   <a href="https://www.buymeacoffee.com/hpandelo">
