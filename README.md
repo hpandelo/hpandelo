@@ -7,7 +7,7 @@
   </a>
 </p> -->
 
-- 🏢 I’m currently working in a contract with [NTTData as Outsourcing to ABI (AB-Inbev)](https://nttdata.com/)
+- 🏢 I’m currently working in a contract with [MetaIT Canada as Outsourcing to KraftHeinz](https://metait.ca/)
 - 🌱 I’m currently learning **NextJS and Best Practices of Clean Architecture and DDD**
 - 🌐 My personal Website [Ideen.com.br (I'll change it soon to a good portifolio)](https://ideen.com.br/)
 - 🔭 I'm looking for **get Specialized in JAVASCRIPT stack with NODEJS in Backend and REACTJS (or NextJS) in Frontend**
