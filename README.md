@@ -4,6 +4,7 @@
     - Old Cars lover
     - Software Engineer
     - with 8 yrs of professional experience
+    - Self-taught in software engineering and in my english language
     - plus around 3 years of experience in personal projects
       - Creating websites
       - Ragnarok Online Server
