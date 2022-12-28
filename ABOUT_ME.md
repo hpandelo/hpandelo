@@ -1,7 +1,15 @@
 # INTRO
 
+## COVER LETTER
+  I'm an experienced software engineer, focusing currently in backend with NodeJS but also worked (almost all my carrer) as Fullstack, with huge experience in all softwares and company sizes, from PoC (Proof of Concept) to Global Wide sofwares
+
+  - Self-tought, passionate to learn & teach
+  - Mentor, Tech Lead & Team Supporter
+  - Looking for a company that helps me to grown up in carrer while I help to grown up the company
+  - Standing for a long term partnership
+
 ## I'm Helcio
-  * Software Engineer with over 6 years of Experience in Software Development
+  * Software Engineer with over 8 years of Experience in Software Development
   * Father of 3 kids
   * Someone who loves technologies, games and old cars
 
@@ -11,10 +19,10 @@
   * Since young, I was a curious guy about this area,
   * about to discover how the computer works, 
   * how the websites gets online 
-  * how to make one
+  * how to make my own
 
 ### The Start
-  * I started to learn about programming in **2005** via some PDFs that I've found in internet (Since there was no YouTUBE at this time)
+  * I started to learn about programming in **2005** via some PDFs that I've found in internet (Since there was no YouTUBE yet)
   * I've made some simple blogs and a website for my brother's company
 
 ### ArchRO
