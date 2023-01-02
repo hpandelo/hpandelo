@@ -1,4 +1,4 @@
-# INTRO
+# INTRO ---- WORK IN PROGESS
 
 ## COVER LETTER
   I'm an experienced software engineer, focusing currently in backend with NodeJS but also worked (almost all my carrer) as Fullstack, with huge experience in all softwares and company sizes, from PoC (Proof of Concept) to Global Wide sofwares
