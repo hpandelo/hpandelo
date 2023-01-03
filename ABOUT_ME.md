@@ -1,12 +1,12 @@
 # INTRO ---- WORK IN PROGESS
 
 ## COVER LETTER
-  I'm an experienced software engineer, focusing currently in backend with NodeJS but also worked (almost all my carrer) as Fullstack, with huge experience in all softwares and company sizes, from PoC (Proof of Concept) to Global Wide sofwares
+  I'm an experienced software engineer, focusing currently in backend with NodeJS but also worked (almost all my carrer) as Fullstack, with huge experience in all softwares and company sizes, from PoC (Proof of Concept) to Global Wide softwares
 
-  - Self-tought, passionate to learn & teach
+  - Self-taught, passionate to learn & teach
   - Mentor, Tech Lead & Team Supporter
-  - Looking for a company that helps me to grown up in carrer while I help to grown up the company
-  - Standing for a long term partnership
+  - Looking for a company that helps me to grow up in my career while I help to grow up the company
+  - Standing for a long-term partnership
 
 ## I'm Helcio
   * Software Engineer with over 8 years of Experience in Software Development
