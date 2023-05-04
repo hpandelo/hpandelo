@@ -49,7 +49,19 @@
       - Creating an automated script for environment creationg
       - Supporting the team
 
-    - Now (Officially a Tech Lead) [3 Person (including me)]
+    - In KraftHeinz - Officially a Tech Lead [3 devs (including me)]
+      - Best Practises Evangelist
+      - Code Reviews
+      - Huge Team Support Spirit
+
+    - Currently at VitalCard Inc - 7 devs
+      - Best Practises Evangelist
+      - Code Reviews
+      - Team Engagement evangelist
+      -- About scrum
+      - Running Team Wellness surveys
+      - Running Sprint Retrospective meetings
+      - Reviewing Daily Reports
 
   ### Team Support
     - I'm always trying to be evangelist of good practises like:
