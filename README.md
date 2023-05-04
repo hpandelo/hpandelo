@@ -1,5 +1,12 @@
 # I'm Helcio
-  ## Backend Software Engineer & Tech Lead
+
+## Links
+
+    - Notion: https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Wiki-357948e726e6488d8b26b65085ac6ec0
+    - LinkedIn: https://www.linkedin.com/in/helciomacedo/
+
+## Backend Software Engineer & Tech Lead
+
     - Father of 3 awesome kids
     - Old Cars lover
     - Software Engineer
@@ -16,7 +23,8 @@
       - Monoliths
       - Microservices
 
-  ## In My career I did
+## In My career I did
+
     - IoT
       - With Arduino, RaspberryPI (and Similars), Intel Galileo
     - Worked with MeshNetworks with XBEE Radios
@@ -26,19 +34,21 @@
       - Native
       - Hybrid
         - With Apache Cordova (using Intel XDK) and Ionic Framework
-    - Web applications into almost all the time
+    - Softwares / Middlewares for Lawful a Enforcement company. Basically interception with Xcipio sensors
+    - Web applications almost all the time
 
-  ### As Fullstack I worked with
+### As Fullstack I worked with
+
+    - Typescript & Javascript together in almost all the projectst (since the pure/vanilla)
+      - NodeJS in Backend
+      - React and NextJS in Frontend
     - Java
     - PHP
     - C++
     - Python and Ruby
 
-    - Typescript & Javascript together in almost all the projects
-      - NodeJS in Backend
-      - React and NextJS in Frontend
+### As Tech Lead
 
-  ### As Tech Lead
     - Acting as TL in Daitan [18 Person - 6 Under my umbrella]
       - Mentoring (Luan Orlandi and Rafael Wada)
       - Onboarding new team members
@@ -63,14 +73,16 @@
       - Running Sprint Retrospective meetings
       - Reviewing Daily Reports
 
-  ### Team Support
+### Team Support
+
     - I'm always trying to be evangelist of good practises like:
       - Meaningful testing coverage
       - Clean Code
       - Performatical Code
       - Using new tecniques
 
-  ## I'm Looking for
+## I'm Looking for
+
     - New challenges to grown up the career
     - As Tech Lead or Engineer
     - Backend only
