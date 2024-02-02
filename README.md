@@ -2,8 +2,8 @@
 
 ## Links
 
-    - Notion: [https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Wiki-357948e726e6488d8b26b65085ac6ec0](https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Notes-357948e726e6488d8b26b65085ac6ec0)
-    - LinkedIn: [https://www.linkedin.com/in/helciomacedo/](https://www.linkedin.com/in/helciomacedo/)
+- Notion: [https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Wiki-357948e726e6488d8b26b65085ac6ec0](https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Notes-357948e726e6488d8b26b65085ac6ec0)
+- LinkedIn: [https://www.linkedin.com/in/helciomacedo/](https://www.linkedin.com/in/helciomacedo/)
 
 ## Backend Software Engineer & Tech Lead
 
