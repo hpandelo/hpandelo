@@ -2,8 +2,8 @@
 
 ## Links
 
-    - Notion: https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Wiki-357948e726e6488d8b26b65085ac6ec0
-    - LinkedIn: https://www.linkedin.com/in/helciomacedo/
+    - Notion: [https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Wiki-357948e726e6488d8b26b65085ac6ec0](https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Notes-357948e726e6488d8b26b65085ac6ec0)
+    - LinkedIn: [https://www.linkedin.com/in/helciomacedo/](https://www.linkedin.com/in/helciomacedo/)
 
 ## Backend Software Engineer & Tech Lead
 
@@ -64,7 +64,7 @@
       - Code Reviews
       - Huge Team Support Spirit
 
-    - Currently at VitalCard Inc - 7 devs
+    - It VitalCard Inc - 7 devs
       - Best Practises Evangelist
       - Code Reviews
       - Team Engagement evangelist
@@ -80,14 +80,3 @@
       - Clean Code
       - Performatical Code
       - Using new tecniques
-
-## I'm Looking for
-
-    - New challenges to grown up the career
-    - As Tech Lead or Engineer
-    - Backend only
-      - 'Cause both areas are growin exponnentially and to be specialist on both are getting impossible
-      - Doesn't makes sense to keep studing deeply both
-      - Get deep knowledge of it
-    - NodeJS
-      - To become a reference into this tech
