@@ -2,6 +2,21 @@
 
 ----
 
+## PITCH
+
+"I’m an experienced software engineer specializing in backend development with NodeJS, using both JavaScript and TypeScript. Throughout my career, I’ve also worked extensively as a fullstack developer with various tech stacks, including Java, PHP, C/C++, Pure/VanillaJS, ReactJS, NextJS, AngularJS/2+, and a bit of Python, Ruby, and .NET/C#. My primary focus has been on web development, but I’ve also ventured into mobile development with native and hybrid Android apps, IoT/Embedded Devices using Arduino, Intel Galileo, and Raspberry Pi, and M2M communications with Xbee/Zigbee radios.
+
+I have a strong track record of working on projects ranging from Proof-of-Concepts (PoC) to global-wide software solutions. As a self-taught English speaker and programmer, I am passionate about continuous learning and teaching. I have always been deeply involved with my teams, serving as a Tech Lead, Tech Interviewer, and mentor to interns and junior developers. I also have experience onboarding new team members.
+
+In addition to my professional career, I created a Ragnarok Online server in 2009, which involved using C++, PHP, and Javascript/jQuery. This project was a significant milestone that showcased my ability to handle complex systems and large-scale user interactions. I’ve also contributed to data protection through ethical hacking and developed innovative projects such as a Human Fall Detection system using Android Wear devices in 2016 and a Programmable Logic Controller (PLC) using Arduino.
+
+I’m seeking a long-term partnership with a company where I can grow my career while contributing to the company’s success.
+
+Outside of work, I’m a father of three, a technology enthusiast, and an old cars lover."
+
+
+----
+
 ## Cover Letter / Summary
 
 I’m an experienced software engineer specializing in backend development with NodeJS (using JavaScript or TypeScript).
