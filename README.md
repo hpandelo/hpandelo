@@ -1,82 +1,122 @@
-# I'm Helcio
+# 👨‍💻 I'm Helcio
 
-## Links
+## 🔗 Links
 
-- Notion: [https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Wiki-357948e726e6488d8b26b65085ac6ec0](https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Notes-357948e726e6488d8b26b65085ac6ec0)
-- LinkedIn: [https://www.linkedin.com/in/helciomacedo/](https://www.linkedin.com/in/helciomacedo/)
+- **Notion**: [Engineering Leading Notes](https://www.notion.so/hpandelo/Helcio-Pandelo-s-Engineering-Leading-Notes-357948e726e6488d8b26b65085ac6ec0)
+- **LinkedIn**: [linkedin.com/in/helciomacedo](https://www.linkedin.com/in/helciomacedo/)
 
-## Backend Software Engineer & Tech Lead
+---
 
-    - Father of 3 awesome kids
-    - Old Cars lover
-    - Software Engineer
-    - with 8 yrs of professional experience
-    - Self-taught in software engineering and in my english language
-    - plus around 3 years of experience in personal projects
-      - Creating websites
-      - Ragnarok Online Server
-      - eCommerces with Prestashop
-    - With experience in almost all project types and sizes
-      - PoC
-      - Global wide
-      - Legacies
-      - Monoliths
-      - Microservices
+## 👨‍🔧 Backend Software Engineer & Tech Lead
 
-## In My career I did
+- Father of 3 awesome kids 👨‍👧‍👦  
+- Classic car enthusiast 🚗  
+- Passionate Software Engineer since 2015 (considering only the professional experiences) 
+- Plus ~3 years of personal projects, including:
+  - Building websites
+  - Running a **Ragnarok Online private server**
+  - Creating e-commerce solutions with **PrestaShop**
 
-    - IoT
-      - With Arduino, RaspberryPI (and Similars), Intel Galileo
-    - Worked with MeshNetworks with XBEE Radios
-      - Sending temperature, humidity and few other metrics
-      - PLUS Pictures
-    - Android apps
-      - Native
-      - Hybrid
-        - With Apache Cordova (using Intel XDK) and Ionic Framework
-    - Softwares / Middlewares for Lawful a Enforcement company. Basically interception with Xcipio sensors
-    - Web applications almost all the time
+- Entirely self-taught in both **software engineering** and the **English language**
 
-### As Fullstack I worked with
+I’ve worked on nearly every kind of project:
+- Proof of Concepts (PoCs)
+- Legacy systems
+- Global-scale platforms
+- Monoliths & Microservices
 
-    - Typescript & Javascript together in almost all the projectst (since the pure/vanilla)
-      - NodeJS in Backend
-      - React and NextJS in Frontend
-    - Java
-    - PHP
-    - C++
-    - Python and Ruby
+---
 
-### As Tech Lead
+## 🛠️ Key Experiences
 
-    - Acting as TL in Daitan [18 Person - 6 Under my umbrella]
-      - Mentoring (Luan Orlandi and Rafael Wada)
-      - Onboarding new team members
-      - Interviewing candidates
+### 📡 IoT and Embedded Systems
 
-    - In NTT Data [16 Person]
-      - Onboarding new members
-      - Creating an automated script for environment creationg
-      - Supporting the team
+- Worked with **Arduino**, **Raspberry Pi**, **Intel Galileo** boards
+- Built **mesh networks** using XBEE radios to transmit:
+  - Temperature, humidity, and sensor data
+  - Images (yup.. I did it)
 
-    - In KraftHeinz - Officially a Tech Lead [3 devs (including me)]
-      - Best Practises Evangelist
-      - Code Reviews
-      - Huge Team Support Spirit
+### 📱 Mobile Applications
 
-    - It VitalCard Inc - 7 devs
-      - Best Practises Evangelist
-      - Code Reviews
-      - Team Engagement evangelist
-      -- About scrum
-      - Running Team Wellness surveys
-      - Running Sprint Retrospective meetings
-      - Reviewing Daily Reports
+- Native Android development
+- Hybrid apps using:
+  - **Apache Cordova** (via Intel XDK)
+  - **Ionic Framework**
 
-### Team Support
+### 🔐 Surveillance and Telecom
 
-    - I'm always trying to be evangelist of good practises like:
-      - Meaningful testing coverage
-      - Clean Code
-      - Performatical Code
-      - Using new tecniques
+- Developed software for a **Lawful Interception** company (the leader one) using Xcipio sensors
+
+### 🌐 Web Applications
+
+- The core of my career: building scalable and maintainable web applications
+
+---
+
+## 💻 Tech Stack
+
+### Fullstack Experience
+
+- **JavaScript** & **TypeScript** (since vanilla JS)
+  - Backend: **Node.js**
+  - Frontend: **React**, **Next.js**
+- Also worked with:
+  - **Java**
+  - **PHP**
+  - **C++**
+  - **Python**
+  - **Ruby**
+
+---
+
+## 👨‍🏫 Tech Lead Experience
+
+### Daitan (18 people; 6 under my lead)
+
+- Mentorship (Luan Orlandi & Rafael Wada)
+- Onboarding new team members
+- Interviewing candidates
+
+### NTT Data (16 people)
+
+- Onboarding support
+- Built automated environment setup scripts
+- General team support
+
+### KraftHeinz (3-person dev team)
+
+- Official Tech Lead role
+- Best practices evangelist
+- Code reviews
+- Team guidance and support
+
+### VitalCard Inc (7-person team)
+
+- Evangelized best engineering practices
+- Code reviews
+- Advocated for agile process improvements
+- Facilitated:
+  - Sprint retrospectives
+  - Team wellness surveys
+  - Daily report reviews
+
+### APM Help (4- preason team)
+
+- Mentoring the Intern and Junior team members
+- Providing knowledge-sharing about techs and techniques
+- Providing reports to PO and CTO
+- Guiding the team through a huge refactor of our Banking and DBR (Daily Basis Reconciliation) platform
+
+---
+
+## 🤝 Team & Culture Champion
+
+I’m always advocating for:
+
+- **Clean Code**
+- **Performant solutions**
+- **Meaningful test coverage**
+- **S.O.L.I.D** at least as much as possible
+- Adoption of **modern development techniques**
+- Strong team culture and developer happiness
+- Performance / Deliverables driven mindset
